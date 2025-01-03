@@ -1,0 +1,15 @@
+# Ignore the 'learn' virtual environment directory
+learn/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore other common virtual environment directories
+.env/
+.venv/
+
+# Ignore IDE and editor directories and files
+.idea/
+.vscode/
+.DS_Store
